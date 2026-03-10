@@ -1,0 +1,7 @@
+{
+  "name": "MuseGen - AI Music Studio",
+  "description": "A Spotify-inspired AI music generator interface featuring advanced prompt enhancement, mood templates, and generation history.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
